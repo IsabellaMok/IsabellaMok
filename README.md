@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Isabella!
 
-<!--
-**IsabellaMok/IsabellaMok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Third-Year Cyber Security Student** at Xiamen Universtiy Malaysia<br/>
+🛡 Sharing my **journey**, experiences, and projects throughout my university life<br/>
+💻 Currently learning and building applications to grow my portfolio<br/>
 
-Here are some ideas to get you started:
+📫 Contact Me
+- Linkeidn: www.linkedin.com/in/isabellamok 
+- Email: isabellamok27@gmail.com
+- Instagram: https://www.instagram.com/isabella.mok
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💌 **Feel free to reach out — let’s connect, share ideas, and learn together!**  
+> Whether it’s about cybersecurity, coding, or just saying hi, I’m always open to making new friends in tech.
+
+<!-- Github Stats from https://github.com/anuraghazra/github-readme-stats -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsabellaMok&show_icons=true&theme=radical)
